@@ -50,3 +50,8 @@
 - HMM model
 - Greddy Decoding 
 
+# Assignment 4
+
+- Implement Name Entity Recognition 
+- BLSTM model
+- BLSTM using Glove Embedding 
