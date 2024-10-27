@@ -43,3 +43,10 @@
   | 14 | CNN | Binary | 50x300 | Custom |
   | 15 | CNN | Ternary | 50x300 | Pretrained |
   | 16 | CNN | Ternary | 50x300 | Custom |
+
+## Assignment 3
+
+- Implement Parts of Speech tagging 
+- HMM model
+- Greddy Decoding 
+
